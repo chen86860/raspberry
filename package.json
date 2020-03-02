@@ -1,8 +1,0 @@
-{
-  "name": "raspberry",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:chen86860/raspberry.git",
-  "author": "Jack <chen86860@126.com>",
-  "license": "MIT"
-}
